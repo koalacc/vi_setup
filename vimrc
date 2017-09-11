@@ -1,5 +1,7 @@
-filetype plugin indent on
+execute pathogen#infect()
 syntax on
+filetype plugin on
+filetype plugin indent on
 set nocp
 set smartindent
 set tabstop=4
